@@ -64,5 +64,3 @@ This document outlines the functional and technical requirements for the NexusBa
 - Regulatory reporting capabilities
 - Privacy controls and data protection
 - Retention policies for financial records
-
-### Test
